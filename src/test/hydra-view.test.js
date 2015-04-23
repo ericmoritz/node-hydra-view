@@ -1,6 +1,6 @@
 const Immutable = require('immutable')
 const im = Immutable.fromJS
-const hydra = require('../src/hydra-view')
+const hydra = require('../hydra-view')
 const expect = require("expect")
 
 

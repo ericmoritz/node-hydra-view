@@ -2,9 +2,9 @@
   "name": "hydra-view",
   "version": "1.0.0",
   "description": "A pattern for building JSON-LD and Hydra services",
-  "main": "./dist/hydra-view",
+  "main": "./lib/hydra-view",
   "scripts": {
-    "test": "mocha --compilers js:babel/register"
+    "test": "mocha --compilers js:babel/register lib/test"
   },
   "author": "",
   "license": "ISC",
